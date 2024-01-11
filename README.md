@@ -27,3 +27,14 @@ git push -u origin master
 
 origin master command creates a brach master
 
+
+# GIT MARGIN AND GIT BRANCHING
+
+## GIT BRANCHING
+
+Allows collaborating on single project on same time
+
+Also allows changing code without affecting main code and then merge
+
+
+
